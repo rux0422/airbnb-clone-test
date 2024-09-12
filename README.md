@@ -1,3 +1,1 @@
-# Airbnb Homepage Clone
-# airbnb-homepage-clone
-# airbnb-homepage
+can be run on local host server with port 3000 using the command npm run dev.
